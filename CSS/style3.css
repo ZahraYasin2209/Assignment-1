@@ -1,0 +1,98 @@
+body {
+    font-family: "Roboto", sans-serif;
+   }
+
+.container{
+    padding: 30px 60px 70px 60px;
+    background-color:lightgray;
+}
+
+h1{
+    text-align: center;
+    font-size: 35px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    text-align: center;
+    font-size: 21px;
+    font-family: 'Roboto', sans-serif; 
+}
+
+ul{
+        font-size: 15px;
+        font-family: 'Roboto', sans-serif; 
+    
+}
+img{
+    height: 140px;
+    width: 45%;
+    box-align: center;
+    padding: 30px;
+}
+.para-wrapper{
+    border: 2px solid black;
+    display: inline-block;
+    width: 300px;
+    height: 540px;
+    color: black;
+    padding: 10px 10px 10px 12px;
+    margin: 27px;
+    background-color: lightcyan;
+}
+.para-wrapper:hover{
+    opacity: 0.8;;
+    color:blue;
+    background-color: aqua;
+}
+.btn {
+    color: rgb(46, 3, 46);
+    text-decoration:solid;
+    border: 2px solid black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+    width: 90%;
+    color: white;
+    
+}
+.btn:hover {
+    opacity: 0.8;
+    background-color:gold;
+    color:black;
+
+}
+.btn-black {
+    background-color: navy;
+    color: white;
+    margin: 65px;
+    padding: 14px 7px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .btn-blue {
+    background-color: navy;
+    margin: 65px;
+    padding: 14px 7px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .btn-white {
+    background-color:navy;
+    margin: 65px;
+    padding: 14px 7px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  
